@@ -10,6 +10,10 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 
 /* Reset
 ---------------------------------*/
+.make-black {
+  color: black;
+}
+
 ul {
     list-style: none;
 }
